@@ -1,0 +1,10 @@
+com\inventory\domain\ProductRepository.class
+com\inventory\usecases\AddProductUseCase.class
+com\inventory\adapters\controller\ProductController.class
+com\inventory\adapters\persistence\ProductRepositoryImpl.class
+com\inventory\cli\Main.class
+com\inventory\usecases\ListAllProductsUseCase.class
+com\inventory\usecases\DeleteProductUseCase.class
+com\inventory\usecases\UpdateProductUseCase.class
+com\inventory\App.class
+com\inventory\domain\Product.class
